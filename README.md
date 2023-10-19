@@ -2,3 +2,11 @@
 
 All the solutions in the game are here using a Swift syntax, but in the game it is very simple. That's why we using a "convert mode", like this:
 
+
+```
+import Foundation
+
+var step: Bool = true
+var pickUp: Bool = true
+var drop: Bool = true
+```
